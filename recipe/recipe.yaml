@@ -24,7 +24,7 @@ requirements:
     - flit-core <4.0,>=3.11
   run:
     - python >=${{ python_min }}
-    - agent-framework-core <2,>=1.4.0
+    - agent-framework-core <2,>=1.7.0
     - openai <3,>=1.99.0
     - opentelemetry-sdk <2,>=1.39.0
     - fastapi <0.133.1,>=0.115.0
