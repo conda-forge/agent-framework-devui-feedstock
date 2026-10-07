@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "1.0.0b260528"
+  version: "1.0.0b260730"
   python_min: "3.10"
 
 package:
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/a/agent-framework-devui/agent_framework_devui-${{ version }}.tar.gz
-  sha256: 81a1503ec7d4c093a322416075fbbd2077cc229fac4a738413129bd6b9585c94
+  sha256: 1dcb01fd3928c1e2dd8ba61de5602e3207fb2d2c6f6e47f842a0cbe952322412
 
 build:
   noarch: python
